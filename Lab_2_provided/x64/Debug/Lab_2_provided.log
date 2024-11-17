@@ -1,0 +1,39 @@
+﻿  main.cpp
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(252,94): warning C4101: 'model': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(252,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(252,101): warning C4101: 'modelCentered': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(252,81): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(252,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(454,70): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(455,70): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(456,70): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(457,70): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(458,70): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(459,70): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(460,66): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(461,66): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(462,66): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(463,66): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(464,66): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(465,66): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(482,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(487,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(492,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(497,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(502,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(507,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(512,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(517,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(522,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(527,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(629,36): warning C4101: 'modelCentered': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(724,36): warning C4101: 'modelCentered': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(724,68): warning C4101: 'rotateYMatrix': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(1045,36): warning C4101: 'modelCentered': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(1045,68): warning C4101: 'rotateYMatrix': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(1247,36): warning C4101: 'modelCentered': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(1326,36): warning C4101: 'modelCentered': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(1369,36): warning C4101: 'modelCentered': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(1410,36): warning C4101: 'modelCentered': unreferenced local variable
+F:\Study Metarials\4-2\Graphics LAB\HW_2\main.cpp(1486,36): warning C4101: 'modelCentered': unreferenced local variable
+  Lab_2_provided.vcxproj -> F:\Study Metarials\4-2\Graphics LAB\HW_2\x64\Debug\Lab_2_provided.exe
